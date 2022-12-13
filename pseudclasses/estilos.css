@@ -1,0 +1,59 @@
+header{
+  text-align: center;
+  background-color:#259b9b;
+  display: flexbox;
+  color: darkblue;
+  font-size: 15px;
+
+}
+.img1{
+  width: 100px;
+  height: 100px;
+  
+}
+
+
+
+body{
+  background-color: #6fbcaa;
+  font-size: medium;
+  color:darkblue;
+  text-align: center;
+
+}
+
+ img{
+  width: 600px;
+  height: 300px;
+  
+ }
+
+a{
+  font-size: 30px;
+  text-align: center;
+  
+ 
+
+}
+.btn{
+ background-color: #b8d6b0;
+height: 60px;
+width:  130px;
+display: flex;
+align-items: center;
+margin-left: 45%;
+border: 5px;
+ 
+}
+
+footer{
+  
+  text-align: center;
+  background-color:#259b9b;
+  display: flexbox;
+  color: darkblue;
+  font-size: 20px;
+
+}
+
+
